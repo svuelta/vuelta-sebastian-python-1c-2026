@@ -1,0 +1,11 @@
+# Encuentro 2 — Python aplicado para automatización y desarrollo
+# Python, Datos e Ingeniería de IA Aplicada — UTN Rosario · FRRO
+#
+# Instalar con:
+#   uv pip install -r requirements.txt
+
+# Entorno de notebooks
+jupyterlab>=4.0
+
+# Consumo de APIs HTTP (003_servicios y 004_integrador)
+requests>=2.31.0
